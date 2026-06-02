@@ -134,7 +134,6 @@ http://127.0.0.1:8000/redoc
 | Method | Endpoint    | Description    |
 | ------ | ----------- | -------------- |
 | GET    | /todos      | Get All Todos  |
-| GET    | /todos/{id} | Get Todo By ID |
 | POST   | /todos      | Create Todo    |
 | DELETE | /todos/{id} | Delete Todo    |
 
